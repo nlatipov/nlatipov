@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nodir 👋
 
-<!--
-**nlatipov/nlatipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 7+ years of experience building performant web applications with React, TypeScript, and Node.js.
 
-Here are some ideas to get you started:
+Currently at **UZUM Technologies** - Central Asia's largest e-commerce group — where I build customer-facing products, internal tools, and shared platform solutions across multiple business verticals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source
+
+Core contributor to **Kibana (Elastic)** — 11 merged PRs including creating the `unified_search` plugin from scratch, a standalone micro-frontend adopted across 19+ teams. Shipped in Kibana v8.3.0.
+
+**Selected PRs:**
+- [Created unified_search plugin](https://github.com/elastic/kibana/pull/127651) — Extracted Search UI into a standalone micro-frontend
+- [Create FilterBuilder with nested OR/AND filters](https://github.com/elastic/kibana/pull/136815) — Built a complex filter builder component with drag & drop, nested logic groups, validation, and comprehensive tests
+- [Move autocomplete logic to unified search plugi](https://github.com/elastic/kibana/pull/129977) — Migrated autocomplete from Data plugin to unified_search, including client/server services, dependency updates across all consuming plugins, and i18n registration
+
+
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Redux Toolkit, RTK Query
+**Backend:** Node.js, Express, PostgreSQL, REST API, GraphQL
+**Testing:** Jest, Cypress, React Testing Library, Playwright
+**Infra:** Docker, CI/CD, Webpack, Vite
+
+## Get in Touch
+
+📧 nodir.latypov@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/nodir-latipov)
