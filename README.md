@@ -17,8 +17,11 @@ Core contributor to **Kibana (Elastic)** — 11 merged PRs including creating th
 ## Tech Stack
 
 **Frontend:** React, Next.js, TypeScript, Redux Toolkit, RTK Query
+
 **Backend:** Node.js, Express, PostgreSQL, REST API, GraphQL
+
 **Testing:** Jest, Cypress, React Testing Library, Playwright
+
 **Infra:** Docker, CI/CD, Webpack, Vite
 
 ## Get in Touch
